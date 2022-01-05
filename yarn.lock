@@ -1063,9 +1063,9 @@ git-config-path@^1.0.1:
     fs-exists-sync "^0.1.0"
     homedir-polyfill "^1.0.0"
 
-git-label@^4.1.1:
+"git-label@https://github.com/mrfelton/git-label/archive/master.tar.gz":
   version "4.1.1"
-  resolved "https://registry.yarnpkg.com/git-label/-/git-label-4.1.1.tgz#07815d6f563d872ae01f5434e03dc03fe4fe7d92"
+  resolved "https://github.com/mrfelton/git-label/archive/master.tar.gz#e19bb39deea66af28ae5daceec2e5f5fade4be70"
   dependencies:
     glob "^6.0.3"
     lineder "^0.1.1"
